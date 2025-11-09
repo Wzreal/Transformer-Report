@@ -70,6 +70,8 @@ python ../src/train.py --train_data ../data/processed/train_en-de_gpu_small.pt \
 量化表格：hyperparameter_table.tsv（超参数对比）、experiment_results.tsv（损失 / 困惑度对比）；
 模型权重：models/ 目录下的 3 个最优模型 .pth 文件；
 实验报告：根目录的 Transformer_Report.pdf（LaTeX 编译版）。
+# Transformer-Report
+Transformer 模型LaTeX 实验报告+项目源码+结果
 
 数据集说明
 来源：TED Talks 双语语料（Hugging Face 链接：https://huggingface.co/datasets/ted_talks_iwslt）；
