@@ -1,0 +1,7 @@
+模型标签	嵌入维度	注意力头数	FFN维度	层数	批次大小	学习率	优化器	学习率调度器	训练轮数
+base	128	4	512	2	32	0.0003	Adam	ReduceLROnPlateau	5
+base	128	4	512	2	32	0.0003	Adam	ReduceLROnPlateau	5
+base	128	4	512	2	32	0.0003	Adam	ReduceLROnPlateau	5
+base	128	4	512	2	32	0.0003	Adam	ReduceLROnPlateau	5
+no_pos	128	4	512	2	32	0.0003	Adam	ReduceLROnPlateau	5
+no_multi	128	4	512	2	32	0.0003	Adam	ReduceLROnPlateau	5
